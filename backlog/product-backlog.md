@@ -15,10 +15,10 @@ so that I can explain AI capability to business stakeholders.
 
 Acceptance Criteria:
 
-- [ ] Explain LLM in simple language
-- [ ] Understand strengths
-- [ ] Understand limitations
-- [ ] Document learning
+- [X] Explain LLM in simple language
+- [X] Understand strengths
+- [X] Understand limitations
+- [X] Document learning
 
 
 ### Story 1.2
