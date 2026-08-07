@@ -174,11 +174,7 @@ A successful AI product requires:
 
 Future projects will be documented here:
 
-| Project                | Description                                 | Status  |
-| ---------------------- | ------------------------------------------- | ------- |
-| AI Product Coach       | Assistant to evaluate AI opportunities      | Planned |
-| Requirement Reviewer   | AI assistant for improving requirements     | Planned |
-| Release Note Generator | Generate release communication from tickets | Planned |
+stay tuned... 
 
 ---
 
