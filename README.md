@@ -192,8 +192,17 @@ For each concept or experiment, I will document:
 
 ---
 
-# Current Status
+# Current Status - 000
 
 🚀 Starting my AI Product journey.
 
 The goal is not only to learn AI technology, but to develop the ability to build better products with AI.
+
+## Current Status 001
+
+🚀 Sprint 0: Setting up AI Product Lab
+
+Next:
+- Learn AI fundamentals
+- Understand LLM concepts
+- Build AI experiments

@@ -8,4 +8,4 @@ Establish the foundation of my AI Product Playbook and define my learning direct
 
 # Task 2 -- build my Backlog
 
-# Task 3 - build your Journal
+# Task 3 - build my Journal
